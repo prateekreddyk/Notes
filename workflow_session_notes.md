@@ -13,7 +13,7 @@ Any activity in our daily life where we have to make series of decisions to exec
 `SQUENCE of ACTIONS for a specific PURPOSE executed on a SIGNAL/trigger`
 
 ------
-An example of what can be a workflow that we can relate in our day to day life
+An example of what can be a workflow that we can relate to in our day to day life
 
 ```mermaid
 flowchart TD;
@@ -43,7 +43,7 @@ graph TD;
 ```
 
 -----
-At work this can applied to lot of stuff. Like CI/CD pipelines, AWS Step Functions, Decisions rules which are similar to the workflow. And the `Event Drive Architecture` perfectly fits into this. 
+At work this can applied to lot of stuff. Like CI/CD pipelines, AWS Step Functions, Decisions rules which are similar to the workflow. And the `Event Driven Architecture` perfectly fits into this. 
 
 ```mermaid
 flowchart LR;
