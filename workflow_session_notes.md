@@ -28,7 +28,7 @@ flowchart TD;
 ```
 
 ------
-The workflow I can relate to was a trading strategy where you have to meticulously follow same series of steps for everyday for success and any deviations could lead to more probabilty of losses. 
+The workflow I can relate to was a trading strategy where you have to meticulously follow same series of steps for every trade to succeed and any deviations could lead to more probabilty of losses. 
 
 ```mermaid
 graph TD;
