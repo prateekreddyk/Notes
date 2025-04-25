@@ -43,7 +43,7 @@ graph TD;
 ```
 
 -----
-At work this can applied to lot of stuff. Like CI/CD pipelines, AWS Step Functions, Decisions rules which are similar to the workflow. And the event drive design perfectly fits into this. 
+At work this can applied to lot of stuff. Like CI/CD pipelines, AWS Step Functions, Decisions rules which are similar to the workflow. And the `Event Drive Architecture` perfectly fits into this. 
 
 ```mermaid
 flowchart LR;
@@ -62,4 +62,4 @@ flowchart LR;
 
 ------
 
-While I still can't completely comprehend on how to put this to use in my daily routine, this definitely helps me in streamlining my work proccesses where I have a hybrid approach using pipelines/automation and some manual effort for completing a task. This helps make sure that I wouldn't miss a step. Also can help with troubleshooting flow where multiple systems are interracted in a series/routine. 
+While I still can't completely comprehend on how to put this to use in my daily routine, this definitely helps me in streamlining my work proccesses where I have a hybrid approach of using pipelines/automation and some manual steps for completing a task. This helps make sure that I wouldn't miss a step. Also can help with troubleshooting flow where multiple systems are interracted in a series/routine. 
